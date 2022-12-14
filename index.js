@@ -58,3 +58,4 @@ app.post('/posts/store', async (req, res) => {
     console.log("Create completed\n" + req.body)
     res.redirect('/')
 })
+70
